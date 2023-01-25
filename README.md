@@ -1,4 +1,12 @@
-### Hi there 👋
+###  Hello! ✨
+
+My name is Rodrigo Fernandes Gonçalves. I just finished my master's in Economics at the University of Brasília. For 6 years, I've been studying environmental economics 🌱. At the moment, I'm mostly interested in environmental public policy evaluation, environmental impact on health, degrowth, and econometrics.
+
+
+- I’m currently learning how to use Github!
+- Pronouns: He/him
+
+Feel free to contact me here if you wish!
 
 <!--
 **rodozinho/rodozinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
