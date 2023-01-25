@@ -11,4 +11,4 @@ I'm a marxist, being influenced by authors such as Marx, Kalecki and Lenin. More
 
 Feel free to contact me here if you wish!
 
-[^1]: That's not me on the picture, unfortunately. It's the ~~only~~ greatest economist Oskar Lange.
+[^1]: That's not me in the picture, unfortunately. It's the ~~only~~ greatest economist Oskar Lange.
