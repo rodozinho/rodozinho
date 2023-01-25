@@ -5,6 +5,8 @@ My name is Rodrigo Fernandes Gonçalves[^1]. I just finished my master's in Econ
 I'm a marxist, being influenced by authors such as Marx, Kalecki and Lenin. More recently authors such as John Foster, Sabrina Fernandes, Saad-Filho, David Graeber and Kohei Saito have shaped my views.
 
 - I’m currently learning how to use Github!
+- [] Create a website --https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7--
+- 
 - Pronouns: He/him
 
 Feel free to contact me here if you wish!
