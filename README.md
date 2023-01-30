@@ -8,6 +8,7 @@ I'm a marxist, being influenced by authors such as Marx (obviously), Kalecki and
 - I’m currently learning how to use Github! Next steps:
 - [ ] Create a website <!--https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7-->
 - [ ] Finish to upload my codes
+- [ ] Understand how to use GitKraken
 
 Feel free to contact me here if you wish!
 
