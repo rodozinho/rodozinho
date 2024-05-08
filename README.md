@@ -1,7 +1,7 @@
 ###  Hello!
 - Pronouns: He/him
 
-My name is Rodrigo Fernandes[^1]. I'm a first year PhD student at Uni of Bonn. For 6 years, I've been studying environmental economics 🌱. At the moment, I'm mostly interested in environmental public policy evaluation, environmental impact on health, degrowth, and econometrics. 
+My name is Rodrigo Fernandes[^1]. I'm a first-year PhD student at Uni of Bonn. For 6 years, I've been studying environmental economics 🌱. At the moment, I'm mostly interested in environmental public policy evaluation, environmental impact on health, degrowth, and econometrics. 
 
 I'm a Marxist, being influenced by authors such as Marx (obviously), Kalecki, Rosa and Lenin. More recently authors such as John Bellamy Foster, Sabrina Fernandes, Saad-Filho, David Graeber and Kohei Saito have shaped my views.
 
